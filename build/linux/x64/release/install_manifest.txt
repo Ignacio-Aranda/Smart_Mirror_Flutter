@@ -1,0 +1,14 @@
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/smart_mirror
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/icudtl.dat
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/packages/material/lib/fonts/material.ttf
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/NOTICES
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/ignacio/Desktop/Personal/SmartMirror/smart_mirror/build/linux/x64/release/bundle/lib/libapp.so
